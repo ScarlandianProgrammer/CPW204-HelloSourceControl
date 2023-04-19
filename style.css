@@ -1,9 +1,9 @@
 body {
-    background-color: black;
+    background-color: slategray;
 }
 h1, p {
     color: white;
 }
 a {
-    color: orange;
+    color: blue;
 }
